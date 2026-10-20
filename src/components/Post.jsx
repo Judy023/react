@@ -86,7 +86,8 @@ export default function Post() {
                     ) : (
                         <div className="post-empty-state"> No posts share yet.</div>
                     )}
-            </div>
+            </div>,
+            <div>hi!</div>
         </div>
     );
 }
